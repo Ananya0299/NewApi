@@ -16,6 +16,7 @@ weatherList=[
         'description':'Sunny'
     },
 
+
         'id':3,
         'city':'Mysore',
         'temperature':28,
